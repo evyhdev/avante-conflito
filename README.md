@@ -1,1 +1,1 @@
-oi
+# Repositório para simular conflito
